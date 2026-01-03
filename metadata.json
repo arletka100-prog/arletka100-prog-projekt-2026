@@ -1,0 +1,7 @@
+{
+  "name": "PolNews Daily",
+  "description": "An automated, high-fidelity news briefing app that delivers the latest updates from Poland in English across all major fields including politics, economy, culture, and technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
