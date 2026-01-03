@@ -21,3 +21,11 @@ export default defineConfig(({ mode }) => {
       }
     };
 });
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+  base: '/arletka100-prog-projekt-2026/',  // 🎯 KLUCZOWE!
+  build: {
+    outDir: 'dist'
+  }
+})
